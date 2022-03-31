@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flaschenpost", "Flaschenpost\Flaschenpost.csproj", "{2267EB73-8EAE-4D76-81B9-4B71F0ABB690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flaschenpost.Specs", "Flaschenpost.Specs\Flaschenpost.Specs.csproj", "{56BF824E-DA34-4735-9130-6EA0E2041FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2267EB73-8EAE-4D76-81B9-4B71F0ABB690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2267EB73-8EAE-4D76-81B9-4B71F0ABB690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2267EB73-8EAE-4D76-81B9-4B71F0ABB690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2267EB73-8EAE-4D76-81B9-4B71F0ABB690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BF824E-DA34-4735-9130-6EA0E2041FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BF824E-DA34-4735-9130-6EA0E2041FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BF824E-DA34-4735-9130-6EA0E2041FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BF824E-DA34-4735-9130-6EA0E2041FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B777A4-6CD6-45E7-8C40-9FD6DD18D123}
+	EndGlobalSection
+EndGlobal
